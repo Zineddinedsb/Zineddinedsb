@@ -37,8 +37,8 @@ Passionné par la création de projets professionnels et l’apprentissage conti
 
 ## 🚀 Projets
 
-| Projet | Description | Lien |
-|--------|-------------|------|
+| Projet | Description | 
+|--------|-------------|
 | Portfolio Web | Portfolio interactif pour présenter mes projets | 
 | Application de réservation | Application de réservation de services à domicile | 
 | Mini projets React | Petits projets React pour apprendre et expérimenter |  
@@ -47,7 +47,7 @@ Passionné par la création de projets professionnels et l’apprentissage conti
 
 ## 📫 Contact
 
-- Email : `tonemail@example.com`  
+- Email : zinousebih128@gmail.com 
 - GitHub : [https://github.com/Zineddinedsb](https://github.com/Zineddinedsb)  
 - LinkedIn : [www.linkedin.com/in/zineddine-sebih-97b572350)  
 
